@@ -79,7 +79,7 @@
 
 
 <!--profile visit count-->
-<a href="https://visitcount.itsvg.in">
+<a href="https://visitcount.itsvg.in" align="center">
   <img src="https://visitcount.itsvg.in/api?id=Rinekochan&label=Profile%20Views&color=4&icon=5&pretty=true" />
 </a>
 
