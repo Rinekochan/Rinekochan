@@ -6,7 +6,6 @@
   </ul>
 </div>
 
-
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
@@ -80,9 +79,9 @@
 
 
 <!--profile visit count-->
-<div align="center">
-[![](https://visitcount.itsvg.in/api?id=Rinekochan&icon=3&color=6)](https://visitcount.itsvg.in)
-</div>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rinekochan&label=Profile%20Views&color=4&icon=5&pretty=true" />
+</a>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
