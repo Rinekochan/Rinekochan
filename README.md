@@ -22,8 +22,6 @@
 
 - ☁️ I've interest in cloud computing. So, I'm learning **AWS and Azure**
 
-- 💬 Ask me about **AWS and Azure**
-
 - 📫 Feel free to reach me out **viethoang9314@gmail.com**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  nekotara!
