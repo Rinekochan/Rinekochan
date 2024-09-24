@@ -18,7 +18,7 @@
 <!--Intro start-->
 - 🔭 I’m a current undergraduate at **Swinburne University of Technology, Melbourne**
 
-- 🌱 I’m currently learning **React, Node.js, and Django.**
+- 🌱 I’m currently learning **.NET and Angular**
 
 - ☁️ I've interest in cloud computing. So, I'm learning **AWS and Azure**
 
