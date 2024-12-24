@@ -58,7 +58,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,azure,cpp,cs,java,dotnet,python,js,react,angular,mysql,mongodb&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,aws,azure,docker,cpp,cs,java,python,js,kotlin,dotnet,fastapi,spring,react,angular,mysql,mongodb,redis&perline=10" />
   </a>
 </p>
 
