@@ -35,8 +35,6 @@
   <tr border="none">
   <td width="50%" align="center">
     <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Rinekochan&theme=dark&show_icons=true&count_private=true" />
-    <br></br>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rinekochan&theme=dark" alt="GitHub Streak" /></a>
   </td>
   
   <td width="50%" align="center">
@@ -74,14 +72,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/viethoangphamcs/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
 </p>
-
-
-<!--profile visit count-->
-<div align="center">
-  <a href="https://visitcount.itsvg.in" >
-    <img src="https://visitcount.itsvg.in/api?id=Rinekochan&label=Profile%20Views&color=4&icon=5&pretty=true" />
-  </a>
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
