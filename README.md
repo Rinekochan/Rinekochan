@@ -19,10 +19,15 @@
 
 
 
-  <td align="center">
+<!--- stats & Trophy (start) -->
+<div align="center">
+
+  <td width="50%" align="center">
     <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Rinekochan&theme=dark&show_icons=true&count_private=true" />
   </td>
-  
-  <td align="center">
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rinekochan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-    </td>
+
+  <td width="50%" align="center">
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rinekochan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</div>        
+<!--- stats (end) -->
