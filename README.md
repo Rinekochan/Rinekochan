@@ -2,7 +2,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Viet Hoang Pham</h1></summary>
+    <summary><h2 style="display: inline-block">Hi, I'm Hoang, or Neko, or Henry, or Octo, or whatever you call me (∪.∪ )...zzz</h2></summary>
   </ul>
 </div>
 
@@ -10,11 +10,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--Intro start-->
-- 🔭 I’m a current undergraduate at **Swinburne University of Technology, Melbourne**
+- 🔭 I’m a current (almost got kicked a.k.a graduated) undergraduate at **Swinburne University of Technology, Melbourne**
 
 - 📫 Feel free to reach me out **viethoang9314@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  nekotara!
+- 🏠 Don't hesitate to drop me a **👋** on Discord: _nekotara_!
 <!--Intro end-->
 
 
