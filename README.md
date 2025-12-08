@@ -2,7 +2,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Hi, I'm Hoang, or Neko, or Henry, or Octo, or whatever you call me (∪.∪ )...zzz</h2></summary>
+    <summary><h2 style="display: inline-block">Hi, I'm Hoang, or Neko, or Henry, or whatever you call me</h2></summary>
   </ul>
 </div>
 
